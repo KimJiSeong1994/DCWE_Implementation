@@ -1,5 +1,5 @@
 ## DCWE_Implementation
-<p>This repertory aims to implementation the <a href = "https://arxiv.org/pdf/2010.12684.pdf"> DCWE </a> paper, with data from Korean. </p>
+<p>This repertory aims to implementation the <a href = "https://arxiv.org/pdf/2010.12684.pdf"> DCWE</a> paper, with data from Korean. </p>
 
 ---
 ### Reference 
